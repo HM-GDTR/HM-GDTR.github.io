@@ -1,2 +1,2 @@
 # HM-GDTR.github.io
-My github personal website.
+My personal github website.
